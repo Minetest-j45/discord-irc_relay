@@ -1,0 +1,10 @@
+{
+   "token": "SuperSecretDiscordBotToken",
+   "discord_server_id": "IdOfDiscordServerYouWantToRelayTo",
+   "discord_channel_id": "IdOfDiscordChannelYouWantToRelayTo",
+   "irc_server": "IrcServerYouWantToRelayTo",
+   "irc_nick": "NameOfBotInIrc",
+   "irc_nickpass": "RandomPassword",
+   "irc_hostserv": false,
+   "irc_channel": "IrcChannelYouWantToRelayTo"
+}
