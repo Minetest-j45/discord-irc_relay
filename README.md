@@ -1,7 +1,7 @@
 # discord-irc_relay
 <br>
 <br>
-### installation
+__installation__<br>
 install node.js on your device<br>
 make a directory for your bot<br>
 change directory to the bot directory in the command line and type `npm init`<br>
