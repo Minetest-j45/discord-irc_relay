@@ -1,7 +1,7 @@
 # discord-irc_relay
 <br>
 <br>
-installation: <br>
+## installation:
 <br>
 install node.js on your device<br>
 make a directory for your bot<br>
